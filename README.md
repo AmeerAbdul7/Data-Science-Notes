@@ -1,2 +1,2 @@
 # Data-Science-Notes
-Python-SQL-Machine Learning
+Python-Statistics-SQL-Machine Learning
